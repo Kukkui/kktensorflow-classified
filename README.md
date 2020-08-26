@@ -1,4 +1,4 @@
 # kktensorflow-classified
 
-DEMO: <br/>
-<img src="./ezgif.com-video-to-gif.gif" />
+DEMO HERE...<br/>
+<img src="./ezgif.com-video-to-gif.gif" width="100%"/>
